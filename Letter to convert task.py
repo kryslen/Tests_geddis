@@ -10,7 +10,7 @@ def main():
     average = calc_average (score_1, score_2, score_3, score_4, score_5)
     print ('Average is ', average)
     
-#receiv equivalent in letters
+#receive equivalent in letters
         
     range_letter1 = convert_to_letter(score_1)
     range_letter2 = convert_to_letter(score_2)
